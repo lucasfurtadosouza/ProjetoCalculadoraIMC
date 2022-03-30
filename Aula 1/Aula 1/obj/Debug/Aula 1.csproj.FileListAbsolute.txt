@@ -1,0 +1,36 @@
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\bin\Debug\Aula 1.exe.config
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\bin\Debug\Aula 1.exe
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\bin\Debug\Aula 1.pdb
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.AssemblyReference.cache
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\App.g.cs
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1_MarkupCompile.cache
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1_MarkupCompile.lref
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\MainWindow.baml
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.g.resources
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\Aula_1.Properties.Resources.resources
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.GenerateResource.cache
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.CoreCompileInputs.cache
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.exe
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.pdb
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\CalculadoraWindow.g.cs
+C:\Users\2020102011010-3\Documents\Projetos\Aula 1\Aula 1\obj\Debug\CalculadoraWindow.baml
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\bin\Debug\Aula 1.exe.config
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\bin\Debug\Aula 1.exe
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\bin\Debug\Aula 1.pdb
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\CalculadoraWindow.g.cs
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\MainWindow.g.cs
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\App.g.cs
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1_MarkupCompile.cache
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1_MarkupCompile.lref
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\CalculadoraWindow.baml
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\MainWindow.baml
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.g.resources
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\Aula_1.Properties.Resources.resources
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.exe
+C:\Users\lucas\Documents\Trabalhos IFRO 2022 3° Ano\Projeto de Desenvolvimento de Sistemas\Projetos\Aula 1\Aula 1\obj\Debug\Aula 1.pdb

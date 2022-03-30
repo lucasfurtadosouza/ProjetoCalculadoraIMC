@@ -1,0 +1,66 @@
+﻿<Window x:Class="Aula_1.CalculadoraWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aula_1"
+        mc:Ignorable="d"
+        Title="Calculadora de IMC" Height="450" Width="549" WindowStartupLocation="CenterScreen" ResizeMode="CanResize" SizeToContent="Manual" WindowState="Normal" Icon="/iconCalcular.png" WindowStyle="None">
+    <Window.Background>
+        <ImageBrush ImageSource="/fundo login.jpg" Stretch="Fill"/>
+    </Window.Background>
+    <StackPanel>
+        <Rectangle Height="33" Width="549">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/fundoBarra.jpg" Stretch="UniformToFill"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,-32,5,0">
+            <Button x:Name="btMinimizar" Content="" Width="23" Height="28" Cursor="Hand" Click="btMinimizar_Click" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                <Button.Background>
+                    <ImageBrush ImageSource="/iconMinimizar.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="btMaximizar" Content="" Height="29" Width="26" Cursor="Hand" Click="btMaximizar_Click" Foreground="{x:Null}" BorderBrush="{x:Null}">
+                <Button.Background>
+                    <ImageBrush Stretch="Uniform" ImageSource="/iconMaximizar.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="btFechar" Content="Button" Height="21" Cursor="Hand" BorderThickness="0,0,0,0" Width="21" Click="btFechar_Click" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                <Button.Background>
+                    <ImageBrush ImageSource="/iconFechar.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+        <Label Content="Calculadora de IMC" FontSize="27" FontWeight="Bold" Background="{x:Null}" BorderBrush="#FFE40000" Foreground="White" Height="42" Width="258" Margin="0,22,0,37" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.177"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Peso (KG):" FontSize="18" FontWeight="Normal" Foreground="White" Background="{x:Null}" Height="34" Width="115" RenderTransformOrigin="-0.095,0.63" Margin="0,0,67,0"/>
+        <TextBox x:Name="txtPeso" TextWrapping="Wrap" Width="172" FontSize="20" Height="27" BorderBrush="#FFCCCCCC">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.35"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label Content="Ex: 70" FontSize="13" FontWeight="Normal" Foreground="White" Background="{x:Null}" Height="34" Width="114" Margin="0,-4,67,-20"/>
+        <Label Content="Altura (M):" FontSize="18" FontWeight="Normal" Foreground="White" Background="{x:Null}" Height="34" Width="115" Margin="0,25,67,0"/>
+        <TextBox x:Name="txtAltura" TextWrapping="Wrap" Width="172" FontSize="20" Height="27" BorderBrush="#FFCCCCCC">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.35"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label Content="Ex: 1,79" FontSize="13" FontWeight="Normal" Foreground="White" Background="{x:Null}" Height="34" Width="114" Margin="0,-4,67,0"/>
+        <Button x:Name="btCalcular" Content="Calcular" Visibility="Visible" Height="42" Width="172" FontSize="20" FontWeight="Bold" BorderBrush="#FF9C9595" Foreground="White" Cursor="Hand" Margin="0,20,0,-41" Click="btCalcular_Click" FontStretch="Normal" FontStyle="Normal" VerticalAlignment="Top" HorizontalContentAlignment="Center" FlowDirection="LeftToRight" Padding="20,1,1,1" Grid.IsSharedSizeScope="True">
+            <Button.Background>
+                <ImageBrush ImageSource="/fundo_button.jpg" Stretch="Fill" Opacity="1" TileMode="FlipX"/>
+            </Button.Background>
+        </Button>
+        <Image Height="40" Width="40" Margin="0,0,106,0" Source="/iconCalcular.png" IsHitTestVisible="False" AllowDrop="True"/>
+    </StackPanel>
+</Window>
